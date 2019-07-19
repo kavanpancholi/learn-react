@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Todo Application project using React Hooks and Redux [View Demo](http://kavanpancholi.com/learn-react-redux/).
 
 ## Available Scripts
 
