@@ -1,7 +1,7 @@
 {
   "name": "learn-react",
   "version": "0.1.0",
-  "homepage": "https://kavanpancholi.com/learn-react-redux",
+  "homepage": "https://kavanpancholi.com/learn-react",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
